@@ -1,12 +1,13 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Find the Best Blood Sugar Support Supplement in 2022
+tagline: Helps to control Blood Sugar Level
+featuredImage: /assets/best-diabetes-supplements.jpg
 cta:
-  ctaText: Know more
-  ctaLink: /about
+  ctaText: Know More
+  ctaLink: https://foundationdemo.netlify.app/blood-sugar-support-supplement
 ---
+Looking for the best blood sugar support supplement? 
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Here is the list of Best Blood sugar supplements you can find useful to control the sugar level.
