@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "Okinawa Flat Belly Tonic Review: Can It Help To Lose Weight?"
-slug: okinawa-flat-belly-tonic-review
+slug: /okinawa-flat-belly-tonic-review
 date: 2022-01-12 17:12
 description: Searching For Okinawa Flat Belly Tonic Reviews! Discover the
   Okinawa ingredients, Okinawa Flat Belly Tonic Side Effects, Real Customer
