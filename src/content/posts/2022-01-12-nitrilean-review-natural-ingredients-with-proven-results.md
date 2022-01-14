@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "NitriLEAN Review: Natural Ingredients With Proven Results"
-slug: nitrilean-review
+slug: /nitrilean-review
 date: 2022-01-12 18:02
 description: Searching For NitriLEAN Review! Discover the NitriLEAN ingredients,
   NitriLEAN Side Effects, Real Customer Experience! NitriLEAN Scam? Where to Buy
