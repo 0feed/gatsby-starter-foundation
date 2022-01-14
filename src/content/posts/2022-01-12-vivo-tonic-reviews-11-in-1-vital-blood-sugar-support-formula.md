@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "Vivo Tonic Reviews: 11-In-1 Vital Blood Sugar Support Formula"
-slug: vivo-tonic-reviews
+slug: /vivo-tonic-reviews
 date: 2022-01-12 17:55
 description: Searching For Vivo Tonic Reviews! Discover the Vivo Tonic
   ingredients, Vivo Tonic Side Effects, Real Customer Experience! Vivo Tonic
