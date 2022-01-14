@@ -6,7 +6,7 @@ tagline: Helps to control Blood Sugar Level
 featuredImage: /assets/best-diabetes-supplements.jpg
 cta:
   ctaText: Know More
-  ctaLink: https://zerofeed.com/blood-sugar-support-supplement
+  ctaLink: /blood-sugar-support-supplement
 ---
 Looking for the best blood sugar support supplement? 
 
