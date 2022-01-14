@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "StrictionD Reviews: Ultimate Solution For Blood Sugar Control"
-slug: strictiond-reviews
+slug: /strictiond-reviews
 date: 2022-01-12 14:15
 description: "StrictionD Reviews: Discover the StrictionD ingredients,
   StrictionD Side Effects, Real Customer Experience! StrictionD Scam? Where to
