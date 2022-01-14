@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "Glucofort Reviews: Helps To Control Your Diabetes, Medication Truth"
-slug: glucofort-reviews
+slug: /glucofort-reviews
 date: 2022-01-12 17:55
 description: Searching For Glucofort Reviews! Discover the Glucofort
   ingredients, Glucofort Side Effects, Real Customer Experience! Glucofort Scam?
