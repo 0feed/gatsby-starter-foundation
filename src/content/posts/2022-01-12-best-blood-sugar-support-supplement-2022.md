@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Best Blood Sugar Support Supplement 2022
-slug: blood-sugar-support-supplement
+slug: /blood-sugar-support-supplement
 date: 2022-01-12 18:18
 description: Looking for Best Blood Sugar Support Supplement to lower blood
   sugar level? finding the result-oriented supplement is pretty much difficult
