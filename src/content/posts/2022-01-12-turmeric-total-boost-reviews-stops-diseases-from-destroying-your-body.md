@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "Turmeric Total Boost Reviews: Stops Diseases From Destroying Your Body"
-slug: turmeric-total-boost-reviews
+slug: /turmeric-total-boost-reviews
 date: 2022-01-12 18:02
 description: Searching For Turmeric Total Boost Reviews! Discover the Turmeric
   Total Boost ingredients, Turmeric Total Boost Side Effects, Real Customer
