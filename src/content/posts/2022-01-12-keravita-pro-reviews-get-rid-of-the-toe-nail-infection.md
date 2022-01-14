@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "Keravita Pro Reviews: Get Rid Of The Toe Nail Infection"
-slug: keravita-pro-reviews
+slug: /keravita-pro-reviews
 date: 2022-01-12 18:02
 description: Searching For Keravita Pro Reviews! Discover the Keravita Pro
   ingredients, Keravita Pro Side Effects, Real Customer Experience!. Keravita
