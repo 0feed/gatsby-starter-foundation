@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "Heal N Soothe Reviews: Solution For All Joint Pains"
-slug: heal-n-soothe-reviews
+slug: /heal-n-soothe-reviews
 date: 2022-01-12 17:55
 description: "Searching For Heal n Soothe Reviews!. Discover the Heal n Soothe
   ingredients, Heal n Soothe Side Effects, Real Customer Experience!. Heal n
