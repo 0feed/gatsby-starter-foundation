@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "CeraCare Reviews: Powerful Blood Sugar Support"
-slug: ceracare-reviews
+slug: /ceracare-reviews
 date: 2022-01-12 17:22
 description: Searching For CeraCare Reviews! Discover the CeraCare ingredients,
   CeraCare Side Effects, Real Customer Experience! CeraCare Scam? Where to Buy
